@@ -1,0 +1,6 @@
+.avatar {
+    width: 90px;               /* Largeur de 60 pixels */
+    height: 90px;              /* Hauteur de 60 pixels */
+    border-radius: 50%;        /* Transforme l'image en cercle */
+    object-fit: cover;         /* Assure que l'image couvre tout l'élément */
+}
